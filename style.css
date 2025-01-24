@@ -1,0 +1,298 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.navbar{
+  display: flex;
+  gap:18px;
+  margin-top: 22px
+}
+.navimg img{
+  margin-right: 80px;
+  height: 40px;
+  margin-left: 23px
+  
+  
+}
+.navlist ul {
+  display: flex;
+  gap: 23px;
+  margin-top: 10px
+}
+.navlist ul li{
+  list-style: none;
+  
+}
+.li{
+  color:#5603fc
+}
+.head{
+  font-size: 52px;
+  text-align: center;
+  margin-top: 48px;
+  color:#5603fc;
+}
+.h2{
+  margin-top: 10px;
+}
+.para p{
+   width:69%;
+  text-align: center;
+  font-size: 20px;
+ }
+.para{
+  display: flex;
+  justify-content: center;
+  margin-top: 18px;
+}
+.hero1{
+  text-align: center;
+  margin-top: 27px;
+}
+.hero1 input{
+  width:392px;
+  height:34px;
+}
+.btn1{
+  text-align: center;
+  margin-top: 28px;
+}
+.btn1 button{
+  width:130px;
+  height:45px;
+  border-radius: 22px;
+  background-color:#5603fc;
+  color:white;
+  font-size: 16px;
+  font-weight: bold;
+  
+}
+.pop{
+  font-size: 25px;
+  text-align: center;
+  margin-top: 22px;
+  color:#5603fc
+}
+.work img{
+  width:100%;
+  position: relative;
+  bottom:4px;
+  
+}
+.btn2{
+  text-align: center;
+  margin-top: 22px;
+}
+.btn3{
+  text-align: center;
+  margin-top: 15px;
+}
+.mbtn button{
+  width: 90px;
+  height: 25px;
+  color:#5603fc;
+  margin-right: 10px;
+  background-color: transparent;
+  border-color: #5603fc;
+  border-radius: 4px;
+  font-weight: bolder;
+  border-width: 1px;
+}
+.test{
+  color:#5603fc;
+  font-size: 32px;
+  text-align: center;
+  margin-top: 80px;
+}
+.quick{
+  text-align: center;
+  font-size: 20px;
+}
+.span{
+  color:black
+}
+.carts{
+  margin-top: 60px;
+  
+}
+.carts div h2{
+  color:#5603fc;
+}
+.carts1 div{
+  margin-top: 30px;
+  width:80%;
+  
+}
+.carts2 div{
+  margin-top: 30px;
+  width:80%;
+}
+.cart11{
+  width:46%;
+  background-color: rgba(86,3,252,0.15);
+  border-radius: 10px;
+  border-radius: 20px;
+  margin-left: 23px;
+}
+.cart21{
+  width:46%;
+  background-color: rgba(86,3,252,0.15);
+  height:200px;
+  border-radius: 20px;
+  margin-left: 23px;
+}
+.cart22{
+  width:46%;
+  background-color: rgba(86,3,252,0.15);
+  height:200px;
+  margin-left: 23px;
+  border-radius: 20px;
+}
+ .cart12{
+   width:46%;
+   height:200px;
+   background-color: rgba(86,3,252,0.15);
+   border-radius: 20px;
+   margin-left: 23px;
+  
+}
+.cart1{
+  display: flex;
+  
+}
+.cart2{
+  display: flex;
+  margin-top: 35px;
+}
+.cart1{
+  margin-top: 35px;
+}
+.carts{
+  text-align: center;
+}
+.ph{
+  position: relative;
+  top:60px;
+  margin-bottom: 13px;
+}
+.carts div p{
+  width:372px;
+  margin: 0px auto
+}
+.find{
+  margin-top: 120px;
+  text-align: center;
+}
+.find h1{
+  font-size: 50px;
+  color:#5603fc;
+}
+h2{
+  font-size: 17px;
+}
+.find p{
+  width:672px;
+  margin: 0px auto;
+  font-size: 21px;
+}
+.banner{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.banner img{
+  width:94%;
+}
+.count{
+  color:#5603fc;
+  font-size: 32px;
+  text-align: center;
+  margin-top: 120px;
+}
+.image{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 130px;
+  
+  
+}
+.ass1{
+  margin-left: 20px;
+}
+.line{
+  width:3px;
+  height: 149px;
+  background-color: #5603fc;
+  position: relative;
+  top: 110px
+}
+.ass2{
+  margin-right: 22px;
+}
+.connect{
+  font-weight: bolder;
+  font-size: 48px;
+  color:#5603fc;
+  display: flex;
+  justify-content: space-between
+}
+.connect p {
+  width:392px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.mfoot{
+  display: flex;
+  justify-content: space-between
+}
+.foot{
+  background-color: rgba(86,3,252,0.75)
+ ; height: 400px;
+  margin-top: 100px;
+}
+.foot div img{
+  margin-top: 80px;
+  margin-left: 23px;
+}
+.foot p{
+  color:white
+}
+.footp{
+  width:282px;
+  color:white;
+  margin-left: 23px;
+  font-size: 16px;
+}
+.p1{
+  margin-right: 30px;
+  margin-bottom: 90px;
+}
+.p11{
+  font-weight: bolder;
+}
+.p12{
+  margin-top: 18px;
+  
+}
+.follow{
+  font-size: 22px;
+  font-weight: bolder;
+  margin-left: 23px;
+  margin-bottom: 55px;
+}
+.flexp{
+  display: flex;
+  justify-content: center;
+}
+.flexp p{
+  margin-left: 20px;
+}
+.f{
+  text-align: center;
+  
+}
+.mpara{
+  margin-top: 8px;
+}
